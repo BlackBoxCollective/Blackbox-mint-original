@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a8c3c0d5.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.b9d19b29.js",
+    "static/css/2.fa4f8ee2.chunk.css": "/static/css/2.fa4f8ee2.chunk.css",
+    "static/js/2.388b1574.chunk.js": "/static/js/2.388b1574.chunk.js",
+    "static/js/3.19f21771.chunk.js": "/static/js/3.19f21771.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.388b1574.chunk.js.LICENSE.txt": "/static/js/2.388b1574.chunk.js.LICENSE.txt",
+    "static/media/ACCESS_PASS_NFT.30ac3ec2.svg": "/static/media/ACCESS_PASS_NFT.30ac3ec2.svg",
+    "static/media/BoardingPassLogo.9f027544.svg": "/static/media/BoardingPassLogo.9f027544.svg",
+    "static/media/logoBlack-Box-Collective-Black-Gold.6a56c2a0.png": "/static/media/logoBlack-Box-Collective-Black-Gold.6a56c2a0.png",
+    "static/media/logoBlack-Box-Collective-White-Gold.8944ef46.png": "/static/media/logoBlack-Box-Collective-White-Gold.8944ef46.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9d19b29.js",
+    "static/css/2.fa4f8ee2.chunk.css",
+    "static/js/2.388b1574.chunk.js",
+    "static/js/main.a8c3c0d5.chunk.js"
+  ]
+}
