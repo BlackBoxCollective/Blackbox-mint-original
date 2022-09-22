@@ -224,7 +224,7 @@ const Form = ({ colorInvert = false }) => {
             <Web3Button
               fullWidth
               variant='contained'
-              onClick={testMint}
+              onClick={mint}
             >
               Mint {mintAmount} for {1.95 * mintAmount} ETH
             </Web3Button>

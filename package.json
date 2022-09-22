@@ -1,14 +1,12 @@
 {
-  "name": "access-pass",
-  "author": "Nick Novoa",
-  "homepage": "https://blackboxcollectivemint.io/",
+  "name": "mui-mint",
+  "author": "Black Box Collective",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
     "deploy": "gh-pages -d build",
-    "build": "cross-env GENERATE_SOURCEMAP=false react-scripts build",
-    "codeStyle:fix": "npm run prettier:fix && npm run eslint:fix",
+    "build": "react-scripts build",
     "clear-all": "rimraf ./build ./node_modules"
   },
   "eslintConfig": {
