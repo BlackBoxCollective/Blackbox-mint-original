@@ -9,11 +9,6 @@
     "build": "react-scripts build",
     "clear-all": "rimraf ./build ./node_modules"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.5%",
