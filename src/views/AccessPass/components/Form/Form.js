@@ -226,7 +226,7 @@ const Form = ({ colorInvert = false }) => {
               variant='contained'
               onClick={mint}
             >
-              Mint {mintAmount} for {1.95 * mintAmount} ETH
+              Mint {mintAmount} for {3.5 * mintAmount} ETH
             </Web3Button>
           } {!wallet &&
             <Web3Button
